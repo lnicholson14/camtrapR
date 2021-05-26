@@ -1,0 +1,19 @@
+﻿site,veg_comm_type,reduced_ct,evelation,rest_status,level_1,level_2,level_3,level_4,level_5,gps_northing,gps_easting,cab_coverage
+BM27,pine flatwoods (all dead) with cabbage palm,disturbed_flatwoods,8,reference_BM,3,3,1,2,-,26.14672,-81.59124,4
+BM29,"cypress with melaluca, surrounded by pine flatwoods",disturbed_cypress,8,reference_BM,3,4,,1,0,26.14038,-81.62048,1
+BM48,"cypress_dome, prairie with cabbage palm",disturbed_cypress,14,reference_BM,4,3,2,2,2,26.10073,-81.60487,3
+BM50,cypress_hammock,mixed_forest,9,reference_Col,2,2,,,0,26.00663,-81.58414,1
+FP69,cypress_dome,freshwater_forested_wetland,13,reference_Pan,4,4,3,4,,26.18588,-81.45573,1
+FS142,cypress_strand,freshwater_forested_wetland,14,reference_Fak,2,3,,4,1,26.04173,-81.42773,1
+FS151,cypress_strand,freshwater_forested_wetland,11,reference_Fak,3,3,,,2,26.00747,-81.40836,1
+FS181,cypress_swamp,freshwater_forested_wetland,10,reference_Fak,3,4,,2,,25.98124,-81.42895,1
+PS0,pine_flatwoods,pine_flatwoods,8,unrestored,4,,,2,,26.03817,-81.52801,2
+PS07,sandhill_pine_upland/cabbage palm mess,disturbed_flatwoods,12,unrestored,4,1,,2,1,26.14694,-81.50115,3
+PS132,cypress_dome,cypress_swamp,10,partially_restored,4,2,,1,,26.03869,-81.43746,2
+PS137,cabbage palm shrub prairie,wet_prairie,6,partially_restored,4,1,,1,0,26.06777,-81.49608,2
+PS181,hardwood? very disturbed restored canal edge,mixed_forest,9,restored,4,,2,,0,26.1222,-81.48968,2
+PS195,freshwater_forested_wetland,freshwater_forested_wetland,13,restored,4,1,,2,1,26.07902,-81.47867,1
+PS207,pine_flatwoods,pine_flatwoods,11,restored,4,0,,1,,26.11661,-81.4932,2
+PS208,freshwater_forested_wetland,freshwater_forested_wetland,11,restored,4,1,,2,0,26.08381,-81.43793,1
+PS26,prairie with cabbage palm,wet_prairie,9,unrestored,4,,,,1,26.08662,-81.54746,2
+PS54,distrubed cypress hammock,disturbed_cypress,10,restored,4,2,,1,,26.01156,-81.46896,3
